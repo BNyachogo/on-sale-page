@@ -23,4 +23,10 @@ function rednerList(items){
     render(myTemplate, document.body);
 }
 
+
+
+
+
+
+
 rednerList(data.shows);
